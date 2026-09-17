@@ -4,3 +4,4 @@
 1. React Routing,</br>
 2. using Link, NavLink, Outlet etc.</br>
 3. Data fetch in 2 ways & display them.</br>
+( ! importent folders: main, roots, header, etc)
